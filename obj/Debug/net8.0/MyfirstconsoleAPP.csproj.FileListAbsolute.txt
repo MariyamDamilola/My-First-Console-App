@@ -1,0 +1,14 @@
+C:\Users\ANYTHING\RiderProjects\MyfirstconsoleAPP\bin\Debug\net8.0\MyfirstconsoleAPP.exe
+C:\Users\ANYTHING\RiderProjects\MyfirstconsoleAPP\bin\Debug\net8.0\MyfirstconsoleAPP.deps.json
+C:\Users\ANYTHING\RiderProjects\MyfirstconsoleAPP\bin\Debug\net8.0\MyfirstconsoleAPP.runtimeconfig.json
+C:\Users\ANYTHING\RiderProjects\MyfirstconsoleAPP\bin\Debug\net8.0\MyfirstconsoleAPP.dll
+C:\Users\ANYTHING\RiderProjects\MyfirstconsoleAPP\bin\Debug\net8.0\MyfirstconsoleAPP.pdb
+C:\Users\ANYTHING\RiderProjects\MyfirstconsoleAPP\obj\Debug\net8.0\MyfirstconsoleAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANYTHING\RiderProjects\MyfirstconsoleAPP\obj\Debug\net8.0\MyfirstconsoleAPP.AssemblyInfoInputs.cache
+C:\Users\ANYTHING\RiderProjects\MyfirstconsoleAPP\obj\Debug\net8.0\MyfirstconsoleAPP.AssemblyInfo.cs
+C:\Users\ANYTHING\RiderProjects\MyfirstconsoleAPP\obj\Debug\net8.0\MyfirstconsoleAPP.csproj.CoreCompileInputs.cache
+C:\Users\ANYTHING\RiderProjects\MyfirstconsoleAPP\obj\Debug\net8.0\MyfirstconsoleAPP.dll
+C:\Users\ANYTHING\RiderProjects\MyfirstconsoleAPP\obj\Debug\net8.0\refint\MyfirstconsoleAPP.dll
+C:\Users\ANYTHING\RiderProjects\MyfirstconsoleAPP\obj\Debug\net8.0\MyfirstconsoleAPP.pdb
+C:\Users\ANYTHING\RiderProjects\MyfirstconsoleAPP\obj\Debug\net8.0\MyfirstconsoleAPP.genruntimeconfig.cache
+C:\Users\ANYTHING\RiderProjects\MyfirstconsoleAPP\obj\Debug\net8.0\ref\MyfirstconsoleAPP.dll
