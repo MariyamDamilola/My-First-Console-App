@@ -27,7 +27,7 @@ bool isMarried = false;
 decimal money = 1000746.6083683m;
 
 float temperature = 30.5f;
-
+gg
 char letter = 'f';
 
 
